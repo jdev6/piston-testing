@@ -1,0 +1,10 @@
+[package]
+name = "rustgame"
+version = "0.1.0"
+authors = ["jdev6 <jd6.dev@gmail.com>"]
+
+[[bin]]
+name = "rustgame"
+
+[dependencies]
+piston_window = "0.34.0"
